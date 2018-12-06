@@ -12,6 +12,7 @@ public class Test {
     
     @org.junit.Test
     public void test1() {
-        System.out.println();
+        CloneTest t = new CloneTest(),
+        b = new CloneTest();
     }
 }

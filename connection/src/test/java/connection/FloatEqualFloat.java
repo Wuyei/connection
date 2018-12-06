@@ -1,5 +1,9 @@
 package connection;
-
+/**
+ * 
+ * @author Administrator
+ * 浮点数相减因精度问题有难以用==作比较
+ */
 public class FloatEqualFloat {
     public static void main(String[] args) {
         System.out.println(3 - 2.6 == 0.4); //false

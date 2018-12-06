@@ -1,5 +1,9 @@
 package connection;
-
+/**
+ * ¶ÌÂ·
+ * @author Administrator
+ *
+ */
 public class ShortCircuit {
     static boolean test1(int val) {
         System.out.println("test1(" + val + ")");
